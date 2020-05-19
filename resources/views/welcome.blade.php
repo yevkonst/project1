@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ЖОПА
+                    ЖОПА ПОЛНАЯ
                 </div>
 
                 <div class="links">
